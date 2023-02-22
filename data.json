@@ -1,0 +1,22 @@
+[
+    {
+        "title":"Coding",
+        "description":"Latihan coding supaya jago",
+        "isDone":true
+    },
+    {
+        "title":"Olahraga",
+        "description":"Olahraga jogging di sekitar rumah",
+        "isDone":false
+    },
+    {
+        "title":"Nonton Netflix",
+        "description":"Menghibur diri dengan menonton Netflix",
+        "isDone":false
+    },
+    {
+        "title":"Makan Siang",
+        "description":"Penuhi kebutuhan gizi agar tidak mudah sakit",
+        "isDone":true
+    }
+]
